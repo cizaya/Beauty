@@ -1,0 +1,378 @@
+.header{position: absolute;
+    width: 1920px;
+    height: 230px;
+    left: 0px;
+    top: 0px
+    ;
+    
+    background: #98A88E;}
+.yu{position: absolute;
+    width: 135px;
+    height: 154.33px;
+    left: 26px;
+    top: 41px;
+    }
+.loli{position: absolute;
+    width: 429px;
+    height: 127px;
+    left: 626px;
+    top: 61px;
+    }
+.kio{position: absolute;
+    width: 361px;
+    height: 96px;
+    left: 1492px;
+    top: 76px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+    text-align: center;
+    
+    color: #000000;
+    }
+.main{
+    position: absolute;
+    width: 1920px;
+    height: 7641px;
+    left: 0px;
+    top: 230px;
+    background: #D9D9D9;
+}
+.vfcn{position: absolute;
+    width: 350px;
+    height: 70px;
+    left: 126px;
+    top: 100px;
+    }
+.jkr{
+    position: absolute;
+    width: 350px;
+    height: 70px;
+    left: 785px;
+    top: 100px;
+    }
+.pfg{position: absolute;
+    width: 350px;
+    height: 70px;
+    left: 1444px;
+    top: 100px;
+    }
+.eck{position: absolute;
+    width: 228px;
+    height: 79px;
+    left: 846px;
+    top: 325px;
+    
+    font-family: 'Irish Grover';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 70px;
+    line-height: 85px;
+    
+    color: #000000;}
+.vfcc{position: absolute;
+    width: 220px;
+    height: 63px;
+    left: 164px;
+    top: 480px;
+    
+    font-family: 'Irish Grover';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 52px;
+    line-height: 63px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+    }
+.rfh1{position: absolute;
+    width: 600px;
+    height: 600px;
+    left: 119px;
+    top: 671px;
+    
+    background: url(изображение.png), #D9D9D9;}
+.rfh2{position: absolute;
+    width: 600px;
+    height: 600px;
+    left: 846px;
+    top: 671px;
+    
+    background: url(изображение.png), #D9D9D9;}
+.rjcv{position: absolute;
+    width: 291px;
+    height: 63px;
+    left: 119px;
+    top: 1276px;
+    
+    font-family: 'Irish Grover';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 52px;
+    line-height: 63px;
+    /* identical to box height */
+    
+    
+    color: #000000;}
+.rfh3{position: absolute;
+    width: 600px;
+    height: 600px;
+    left: 119px;
+    top: 1456px;
+    
+    background: url(изображение.png), #D9D9D9;}
+.rfh4{position: absolute;
+width: 600px;
+height: 600px;
+left: 846px;
+top: 1456px;
+
+background: url(изображение.png), url(изображение.png), #D9D9D9;}
+.cgf{position: absolute;
+    width: 256px;
+    height: 63px;
+    left: 119px;
+    top: 2169px;
+    
+    font-family: 'Irish Grover';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 52px;
+    line-height: 63px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+    }
+.rfh5{
+    position: absolute;
+    width: 600px;
+    height: 600px;
+    left: 119px;
+    top: 2345px;
+    
+    background: url(изображение.png), #D9D9D9;
+    }
+.rfh6{position: absolute;
+    width: 600px;
+    height: 600px;
+    left: 846px;
+    top: 2345px;
+    
+    background: url(изображение.png), #D9D9D9;}
+.vfcnt{position: absolute;
+    width: 280px;
+    height: 85px;
+    left: 819px;
+    top: 3074px;
+    
+    font-family: 'Irish Grover';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 70px;
+    line-height: 85px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+    
+    }
+.rfh7{
+    position: absolute;
+    width: 749px;
+    height: 804.54px;
+    left: 119px;
+    top: 3288px;
+    
+    background: url(изображение.png);
+    border-radius: 11px;}
+.rfh8{position: absolute;
+    width: 781.48px;
+    height: 810.16px;
+    left: 1018.61px;
+    top: 3288px;
+    
+    background: url(изображение.png);
+    border-radius: 11px;}
+.vfcn1{position: absolute;
+    width: 749px;
+    height: 237.85px;
+    left: 119px;
+    top: 4142.15px;
+    
+    font-family: 'Irish Grover';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 77px;
+    text-align: center;
+    
+    color: #000000;
+    }
+.vfcn2{
+    position: absolute;
+    width: 900px;
+    height: 415.88px;
+    left: 959px;
+    top: 4144px;
+    
+    font-family: 'Irish Grover';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 77px;
+    text-align: center;
+    
+    color: #000000;
+    }
+.gjhna{position: absolute;
+    width: 1580.05px;
+    height: 1684.25px;
+    left: 169px;
+    top: 4720px;
+    }
+.pfg1{position: absolute;
+    width: 600px;
+    height: 90px;
+    left: 660px;
+    top: 6745px;
+    
+    filter: drop-shadow(2px 4px 4px rgba(0, 0, 0, 0.25));}
+.flhtcf{position: absolute;
+    width: 229px;
+    height: 82px;
+    left: 846px;
+    top: 7120px;
+    
+    font-family: 'Irish Grover';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 68px;
+    line-height: 82px;
+    
+    color: #000000;
+    }
+.ujv{position: absolute;
+    width: 241px;
+    height: 82px;
+    left: 252px;
+    top: 7320px;
+    
+    font-family: 'Irish Grover';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 68px;
+    line-height: 82px;
+    
+    color: #000000;
+    }
+.ul1{position: absolute;
+    width: 549px;
+    height: 77px;
+    left: 119px;
+    top: 7402px;
+    
+    font-family: 'Irish Grover';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 77px;
+    
+    color: #000000;
+    }
+.vby{
+    position: absolute;
+    width: 218px;
+    height: 82px;
+    left: 1252px;
+    top: 7300px;
+    
+    font-family: 'Irish Grover';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 68px;
+    line-height: 82px;
+    
+    color: #000000;
+    }
+.ul2{
+    position: absolute;
+    width: 431px;
+    height: 77px;
+    left: 1180px;
+    top: 7402px;
+    
+    font-family: 'Irish Grover';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 77px;
+    
+    color: #000000;
+    
+    }
+.footer{
+    position: absolute;
+    width: 1920px;
+    height: 310px;
+    left: 0px;
+    top: 7871px;
+    
+    background: #98A88E;}
+.yjk1{
+    position: absolute;
+    width: 115px;
+    height: 83px;
+    left: 18px;
+    top: 108px;
+    
+    background: url(pngwing);}
+.yjk2{position: absolute;
+    width: 112px;
+    height: 107px;
+    left: 21px;
+    top: 190px;
+    
+    background: url(pngwing);}
+.yjk3{position: absolute;
+    width: 479px;
+    height: 128px;
+    left: 1197px;
+    top: 59px;
+    }
+.bycn1{position: absolute;
+    width: 339px;
+    height: 73px;
+    left: 146px;
+    top: 42px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 73px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+    }
+.yfv1{position: absolute;
+    width: 397px;
+    height: 67px;
+    left: 131px;
+    top: 150px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 55px;
+    line-height: 67px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+    }
